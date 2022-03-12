@@ -26,10 +26,8 @@
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/components" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote: ruby-2.6.3-p62" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.2, rbenv: 2.6.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.11.3, rbenv: 2.6.5) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
