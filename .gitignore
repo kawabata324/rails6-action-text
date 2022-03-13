@@ -30,4 +30,6 @@
 yarn-debug.log*
 .yarn-integrity
 
-/vendor/bundle
+/vend or/bundle
+
+/.idea
