@@ -1,0 +1,13 @@
+ja:
+ activerecord:
+  errors:
+   models:
+    post:
+     attributes:
+      title:
+       blank: が空です。
+       too_long: が%{count}文字が超えています。
+  attributes:
+   post:
+    title: タイトル
+
