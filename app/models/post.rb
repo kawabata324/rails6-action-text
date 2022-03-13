@@ -12,6 +12,8 @@ class Post < ApplicationRecord
   MAX_MEGA_BYTE_SIZE = 1
   MAX_CONTENT_ATTACHMENT_BYTE_SIZE = MAX_MEGA_BYTE_SIZE * ONE_KILO_BYTE * 1_000
 
+  private
+
   def validate_content_length
     length = content.to_plain_text.length
     if length > MAX_CONTENT_LENGTH
