@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="760ba347-7757-4151-8306-3ac24614481d" name="Changes" comment="">
+    <list default="true" id="760ba347-7757-4151-8306-3ac24614481d" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/locales/ja.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/locales/ja.yml" afterDir="false" />
@@ -162,7 +162,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647070159703</updated>
       <workItem from="1647070162740" duration="6894000" />
-      <workItem from="1647176788216" duration="6115000" />
+      <workItem from="1647176788216" duration="7163000" />
+      <workItem from="1647183985201" duration="492000" />
     </task>
     <servers />
   </component>

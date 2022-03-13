@@ -11,6 +11,7 @@ ja:
               too_long: が%{max_content_length}文字を超えています。[%{length}/%{max_content_length}]
             base:
               content_attachment_is_too_big: 添付ファイルは%{max_mega_bite_size}MBサイズ以下にしてください。[%{byte_size}/%{max_content_attachment_byte_size}]
+              content_attachment_number_is_too_many: 添付ファイルは%{max_number_of_attachment}までにしてください。[%{number_of_attachment}/%{max_number_of_attachment}]
     attributes:
       post:
         title: タイトル
